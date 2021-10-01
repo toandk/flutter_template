@@ -1,6 +1,7 @@
 // @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flutter_template/generated/locales.g.dart';
+import 'package:flutter_template/screens/example/login.dart';
 import 'package:flutter_template/theme/themes.dart';
 import 'package:get/get.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
@@ -32,7 +33,7 @@ class MainApp extends StatelessWidget {
           locale: const Locale("vi"),
           fallbackLocale: const Locale("en"),
           translationsKeys: AppTranslation.translations,
-          initialRoute: RouterName.notifications,
+          initialRoute: RouterName.login,
           debugShowCheckedModeBanner: false,
           getPages: Pages.pages,
         ));
