@@ -1,0 +1,67 @@
+{
+  "conversations_title": "Chat",
+  "notification": {
+    "addAssignee": "% added %",
+    "addWatcher": "% added followers %",
+    "edittedTask": "% has work updated",
+    "updatedDueDate": "% changed deadline",
+    "deletedTask": "% deleted work",
+    "commented": "% commented"
+  },
+  "task": {
+    "notificationTitle": "Notifications",
+    "taskTitle": "My tasks",
+    "createTask": "New",
+    "search": "Search",
+    "assignedToMe": "Assigned to me",
+    "assignedByMe": "Assigned by me",
+    "watching": "Watching",
+    "detail": "Detail",
+    "files": "Files",
+    "titleHint": "Task title...",
+    "status": "Status",
+    "createNewTask": "Create a new task",
+    "addMoreAssignee": "Add assignee",
+    "addWatcher": "Add watcher",
+    "addDueDate": "Add due date",
+    "addPriority": "Add priority",
+    "descriptionHint": "Task description...",
+    "save": "Save",
+    "priority1": "None",
+    "priority2": "Low",
+    "priority3": "Medium",
+    "priority4": "High",
+    "priority5": "Highest",
+    "all": "All",
+    "todo": "ToDo",
+    "inprogress": "InProgress",
+    "done": "Done",
+    "task": "Task",
+    "pickAssignees": "Select assignee",
+    "dueDate": "Duedate",
+    "pickdueDate": "Select duedate",
+    "priority": "PRIORITY",
+    "commentHere": "Write a comment",
+    "taskContent": "Work content",
+    "taskContentSave": "Save",
+    "taskContentEdit": "Edit",
+    "assignee": {
+      "assignees": "Assignee",
+      "continue": "Done",
+      "member": "Member",
+      "follower": "Follower"
+    }
+  },
+  "validation": {
+    "taskTitle": "Please enter the job title",
+    "taskDescription": "Please enter a job description"
+  },
+  "alert": {
+    "alert": "Alert",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "dismiss": "Dismiss",
+    "skip": "Skip",
+    "later": "Later"
+  }
+}

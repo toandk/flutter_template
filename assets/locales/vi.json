@@ -1,0 +1,68 @@
+{
+  "conversations_title": "Chat",
+  "notification": {
+    "addAssignee": "% đã thêm người thực hiện %",
+    "addWatcher": "% đã thêm người theo dõi %",
+    "edittedTask": "% đã cập nhật công việc",
+    "updatedDueDate": "% đã thay đổi thời hạn",
+    "deletedTask": "% đã xóa công việc",
+    "commented": "% đã bình luận"
+  },
+  "task": {
+    "notificationTitle": "Thông báo",
+    "taskTitle": "Quản lý công việc",
+    "createTask": "Tạo mới",
+    "search": "Tìm kiếm",
+    "assignedToMe": "Giao cho tôi",
+    "assignedByMe": "Giao bởi tôi",
+    "watching": "Đang theo dõi",
+    "detail": "Chi tiết",
+    "files": "Tài liệu",
+    "taskHint": "Tiêu đề công việc",
+    "titleHint": "Nhập tiêu đề",
+    "status": "Trạng thái",
+    "createNewTask": "Tạo công việc mới",
+    "addMoreAssignee": "Thêm người thực hiện",
+    "addWatcher": "Thêm người theo dõi",
+    "addDueDate": "Thêm thời hạn",
+    "addPriority": "Thêm độ ưu tiên",
+    "descriptionHint": "Mô tả công việc",
+    "save": "Lưu lại",
+    "priority1": "Không",
+    "priority2": "Thấp",
+    "priority3": "Trung",
+    "priority4": "Cao",
+    "priority5": "Cao nhất",
+    "all": "Tất cả công việc",
+    "todo": "Cần làm",
+    "inprogress": "Đang thực hiện",
+    "done": "Hoàn thành",
+    "task": "CÔNG VIỆC",
+    "pickAssignees": "Chọn người thực hiện",
+    "dueDate": "Thời hạn",
+    "pickdueDate": "Chọn thời hạn",
+    "priority": "ĐỘ ƯU TIÊN",
+    "commentHere": "Viết bình luận",
+    "taskContent": "Nội dung công việc",
+    "taskContentSave": "Lưu",
+    "taskContentEdit": "Chỉnh sửa",
+    "assignee": {
+      "assignees": "Người thực hiện",
+      "continue": "Tiếp tục",
+      "member": "Thực hiện",
+      "follower": "Theo dõi"
+    }
+  },
+  "validation": {
+    "taskTitle": "Vui lòng nhập tiêu đề công việc",
+    "taskDescription": "Vui lòng nhập mô tả công việc"
+  },
+  "alert": {
+    "alert": "Thông báo",
+    "ok": "Đồng ý",
+    "cancel": "Hủy",
+    "dismiss": "Hủy",
+    "skip": "Bỏ qua",
+    "later": "Để sau"
+  }
+}
